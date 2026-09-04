@@ -1,8 +1,10 @@
-# 🌍 AtlasAI — Multi-Agent Travel Planner
+# 🌍 AtlasAI — Multi-Agent Travel Planner 
 
 AtlasAI turns a single sentence like *"Plan a 3-day trip to Tokyo with a budget of $1200"* into a full travel plan — flight options, hotel picks, and a day-by-day schedule — by routing the request through a chain of specialized AI agents built on **LangGraph**.
 
 Instead of one model trying to do everything at once, the request moves through a pipeline: a flight agent gathers live flight data, a hotel agent researches places to stay, an itinerary agent turns that into a realistic schedule, and a final agent writes it all up into one clean, readable answer.
+
+Live: https://atlasai-multi-agent-travel-planner.onrender.com/
 
 ---
 
